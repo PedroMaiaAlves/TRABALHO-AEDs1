@@ -11,10 +11,10 @@ Descanso Garantido é um hotel que tem como objetivo atender bem seus clientes, 
 
 ## Estrutura de Dados
 
-* ** typedef struct Cliente**: Armazena as informações dos clientes do hotel, incluindo código, nome, endereço e telefone.
-* ** typedef struct Funcionario**: Armazena as informações dos funcionários, incluindo código, nome, telefone, cargo e salário.
-* ** typedef struct Quarto**: Armazena as informações dos quartos, incluindo número, quantidade de hóspedes, valor da diária e status (ocupado/desocupado).
-* ** typedef struct Estadia**: Armazena as informações das estadias, incluindo código, data de entrada, data de saída, quantidade de diárias, código do cliente, número do quarto e valor total.
+* **typedef struct Cliente**: Armazena as informações dos clientes do hotel, incluindo código, nome, endereço e telefone.
+* **typedef struct Funcionario**: Armazena as informações dos funcionários, incluindo código, nome, telefone, cargo e salário.
+* **typedef struct Quarto**: Armazena as informações dos quartos, incluindo número, quantidade de hóspedes, valor da diária e status (ocupado/desocupado).
+* **typedef struct Estadia**: Armazena as informações das estadias, incluindo código, data de entrada, data de saída, quantidade de diárias, código do cliente, número do quarto e valor total.
 
 ## Funções Utilizadas
 
