@@ -32,7 +32,7 @@ Descanso Garantido é um hotel que tem como objetivo atender bem seus clientes, 
 
 * **void pesquisarCliente(Cliente clientes[], int qtdClientes)**: Pesquisa um cliente pelo código ou nome, exibindo suas informações se encontrado.
 
-* **vvoid pesquisarFuncionario(Funcionario funcionarios[], int qtdFuncionarios)**: Pesquisa um funcionário pelo código ou nome, exibindo suas informações se encontrado.
+* **void pesquisarFuncionario(Funcionario funcionarios[], int qtdFuncionarios)**: Pesquisa um funcionário pelo código ou nome, exibindo suas informações se encontrado.
 
 * **void pesquisarEstadia(Estadia estadias[], int qtdEstadias)**: Pesquisa uma estadia pelo código, exibindo suas informações se encontrada.
 
