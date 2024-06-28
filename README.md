@@ -18,11 +18,7 @@ Descanso Garantido é um hotel que tem como objetivo atender bem seus clientes, 
 
 ## Funções Utilizadas
 
-* **A função cadastrarCliente(Cliente clientes[], int *qtdClientes) é usada para adicionar novos clientes a um sistema de gerenciamento. Ela verifica se a quantidade atual de clientes atingiu o limite máximo (MAX_CLIENTES) e, se esse for o caso, imprime uma mensagem de erro e interrompe o processo.
-
-Caso ainda haja espaço para mais clientes, a função cria uma nova estrutura Cliente e atribui um código único ao novo cliente. Em seguida, solicita ao usuário que insira o nome, endereço e telefone do cliente, armazenando essas informações na estrutura recém-criada.
-
-Após coletar os dados, a função adiciona o novo cliente ao array clientes e incrementa o contador de clientes (*qtdClientes). Finalmente, ela confirma o cadastro bem-sucedido com uma mensagem ao usuário, indicando o código do cliente recém-adicionad
+* **A função cadastrarCliente(Cliente clientes[], int *qtdClientes) é usada para adicionar novos clientes a um sistema de gerenciamento. Ela verifica se a quantidade atual de clientes atingiu o limite máximo (MAX_CLIENTES) e, se esse for o caso, imprime uma mensagem de erro e interrompe o processo. Caso ainda haja espaço para mais clientes, a função cria uma nova estrutura Cliente e atribui um código único ao novo cliente. Em seguida, solicita ao usuário que insira o nome, endereço e telefone do cliente, armazenando essas informações na estrutura recém-criada. Após coletar os dados, a função adiciona o novo cliente ao array clientes e incrementa o contador de clientes (*qtdClientes). Finalmente, ela confirma o cadastro bem-sucedido com uma mensagem ao usuário, indicando o código do cliente recém-adicionad
   
 * **void cadastrarFuncionario(Funcionario funcionarios[], int *qtdFuncionarios)**: Cadastra um novo funcionário no array de funcionários, aumentando a quantidade total de funcionários. Pede ao usuário que insira os dados do funcionário.
 
