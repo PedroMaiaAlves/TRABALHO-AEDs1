@@ -8,6 +8,7 @@ Descanso Garantido é um hotel que tem como objetivo atender bem seus clientes, 
 * **stdio.h**: Biblioteca padrão que fornece funções como printf e scanf, fundamentais para interação entre entrada e saída de dados.
 * **stdlib.h**: Oferece funções para manipulação de memória, conversão de tipos, geração de números aleatórios e controle do ambiente de execução do software.
 * **string.h**: Utilizado para manipulação de strings, exemplo cópia, concatenação, etc.
+* **assert.h**: Utilizada para manipular os casos de teste, auxilia na confirmação de testes.
 
 ## Estrutura de Dados
 
