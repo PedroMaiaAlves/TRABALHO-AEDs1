@@ -87,14 +87,7 @@ Para a confecção de um ótimo trabalho pautado nas boas práticas da engenhari
 **Backlog Geral**
 <img src="Sprints/BacklogFeito.png" alt="Backlog geral />
 
-**Sprint 1**
-<img src="Sprints/Sprint1.gif" alt="Sprint 1" />
-
-**Sprint 2**
-<img src="Sprints/Sprint2.gif" alt="Sprint 2" />
-
-**Sprint 3**
-<img src="Sprints/Sprint3.gif" alt="Sprint 3" />
-
-**Sprint 4**
-<img src="Sprints/BacklogDaSprint4.png" alt="Sprint 4" />
+**Sprint 1**<img src="Sprints/Sprint1.gif" alt="Sprint 1" />
+**Sprint 2**<img src="Sprints/Sprint2.gif" alt="Sprint 2" />
+**Sprint 3**<img src="Sprints/Sprint3.gif" alt="Sprint 3" />
+**Sprint 4**<img src="Sprints/BacklogDaSprint4.png" alt="Sprint 4" />
