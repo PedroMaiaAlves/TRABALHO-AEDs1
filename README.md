@@ -101,5 +101,5 @@ Abaixo é possível acompanhar a organização das sprints feita apartir do trel
 Em anexo, temos tabelas que representam os relatórios de testes, neles é possível ver as entradas, classes válidas, classes inválidas e os resultados esperados.
 
 <img src="ExecucaoTeste/CaoDeTeste1.png" alt="Teste 1"/>
-<img src="ExecucaoTeste/CaoDeTeste2.png" alt="Teste 2"/>
-<img src="ExecucaoTeste/CaoDeTeste3.png" alt="Teste 3"/>
+<img src="ExecucaoTeste/CasoDeTeste2.png" alt="Teste 2"/>
+<img src="ExecucaoTeste/CasoDeTeste3.png" alt="Teste 3"/>
