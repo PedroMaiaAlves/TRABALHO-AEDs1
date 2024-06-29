@@ -84,7 +84,10 @@ Para a confecção de um ótimo trabalho pautado nas boas práticas da engenhari
 
 ## Evolução das Sprints
 
-**Backlog Geral**<img src="Sprints/BacklogFeito.png" alt="Backlog geral"/>
+Abaixo é possível acompanhar a organização das sprints feita apartir do trello.
+
+**Backlog Geral**
+<img src="Sprints/BacklogFeito.png" alt="Backlog geral"/>
 **Sprint 1**
 <img src="Sprints/Sprint1.gif" alt="Sprint 1" style="width: 1714px; height: 883px;" />
 **Sprint 2**
@@ -92,3 +95,11 @@ Para a confecção de um ótimo trabalho pautado nas boas práticas da engenhari
 **Sprint 3**
 <img src="Sprints/Sprint3.gif" alt="Sprint 3" style="width: 1714px; height: 883px;" />
 **Sprint 4**<img src="Sprints/BacklogDaSprint4.png" alt="Sprint 4" />
+
+## Relatório de testes.
+
+Em anexo, temos tabelas que representam os relatórios de testes, neles é possível ver as entradas, classes válidas, classes inválidas e os resultados esperados.
+
+<img src="ExecucaoTeste/CaoDeTeste1.png" alt="Teste 1"/>
+<img src="ExecucaoTeste/CaoDeTeste2.png" alt="Teste 2"/>
+<img src="ExecucaoTeste/CaoDeTeste3.png" alt="Teste 3"/>
