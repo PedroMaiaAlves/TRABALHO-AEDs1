@@ -85,7 +85,10 @@ Para a confecção de um ótimo trabalho pautado nas boas práticas da engenhari
 ## Evolução das Sprints
 
 **Backlog Geral**<img src="Sprints/BacklogFeito.png" alt="Backlog geral"/>
-<img src="Sprints/Sprint1.gif" alt="Sprint 1" style="width: 600px; height: 600px;" />
-<img src="Sprints/Sprint2.gif" alt="Sprint 2" style="width: 600px; height: 600px;" />
-<img src="Sprints/Sprint3.gif" alt="Sprint 3" style="width: 600px; height: 600px;" />
+**Sprint 1**
+<img src="Sprints/Sprint1.gif" alt="Sprint 1" style="width: 1714px; height: 883px;" />
+**Sprint 2**
+<img src="Sprints/Sprint2.gif" alt="Sprint 2" style="width: 1714px; height: 883px;" />
+**Sprint 3**
+<img src="Sprints/Sprint3.gif" alt="Sprint 3" style="width: 1714px; height: 883px;" />
 **Sprint 4**<img src="Sprints/BacklogDaSprint4.png" alt="Sprint 4" />
