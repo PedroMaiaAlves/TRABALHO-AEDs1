@@ -42,6 +42,12 @@ Segundo, remove a estadia específica do array estadias[], ajustando o contador 
 * **void salvarDados(Cliente clientes[], int qtdClientes, Funcionario funcionarios[], int qtdFuncionarios, Estadia estadias[], int qtdEstadias)**: Salva os dados de clientes, funcionários e estadias em arquivos correspondentes ("clientes.txt", "funcionarios.txt", "estadias.txt").
 
 * **void carregarDados(Cliente clientes[], int *qtdClientes, Funcionario funcionarios[], int *qtdFuncionarios, Estadia estadias[], int *qtdEstadias)**: PCarrega os dados de clientes, funcionários e estadias a partir dos arquivos correspondentes.
+
+## Casos de Teste
+
+* **void testarCadastroCliente()**: A função testarCadastroCliente testa o cadastro de clientes em um sistema, redirecionando a entrada padrão para ler dados de um arquivo e executando a função "cadastrarCliente" para adicionar clientes a um array. Após verificar o número de clientes cadastrados, ela imprime e valida os dados de cada cliente usando asserções.
+* **void testarCadastroFuncionario()**: A função "testarCadastroFuncionario" lê dados de funcionários de um arquivo "funcionarioTeste.txt" e os cadastra em um array até atingir o limite "MAX_FUNCIONARIOS". Para cada funcionário, são validados nome, telefone, cargo e salário, atribuindo um código sequencial. Caso a leitura dos dados falhe ou os dados sejam inválidos, uma mensagem de erro é exibida. Se não houver dados suficientes, funcionários já cadastrados são duplicados automaticamente para preencher o array. Ao final, a lista de funcionários cadastrados é impressa e verificada.
+* **void testarCadastroEstadia()**: A função "testarCadastroEstadia" lê dados de estadias de um arquivo "estadiaTestes.txt" e cadastra essas estadias em um array, verificando se estão preparadas corretamente. Clientes e quartos são previamente definidos, e as estadias são cadastradas e impressas com suas informações. Após o cadastro inicial, a função testa o cadastro de estadias especificamente para cada quarto, reiniciando o array e lendo novamente o arquivo para cada quarto, garantindo que estadias são corretamente atribuídas e exibidas para cada quarto.
   
 
 ## MENU
@@ -57,6 +63,7 @@ Segundo, remove a estadia específica do array estadias[], ajustando o contador 
     7. Dar Baixa em Estadia
     8. Mostrar Estadias de Cliente
     9. Salvar e Sair
+    10. Aba de testes
 
 * Possivel escolher e navegar pelas diferentes interfaces e funções da aplicação.
 
@@ -67,3 +74,27 @@ Segundo, remove a estadia específica do array estadias[], ajustando o contador 
 * Funcionários: Id, Nome, Cargo, Telefone, Salário.
 * Estadias: Id, Data de Entrada, Data de saída, Diárias, Código do cliente hospedado, Número de Hospedes, Valor total.
 * Quartos: Tipo de quarto, Capacidade de pessoas, Valor da Diária, Ocupado/Desocupado, Id.
+* **Os arquivos de teste, possuem entradas que serão lidas e usadas como base para efetuar os testes.**
+
+## Métodos Ágeis 
+
+Para a confecção de um ótimo trabalho pautado nas boas práticas da engenharia de software, utilizamos o **Scrum** e o **Kanban**
+* **Scrum**:O framework Scrum, nos auxiliou a organizar o projeto em sprints de aproximadamente 5 dias, onde efetuamos as suas cerimônias criteriosamente. Planejávamos a sprint e definíamos qual seria o backlog da mesma. Realizávamos ¨*daily's* com durações aproximadas de 5 a 8 minutos. Ao final de cada sprint, revisávamos o que tinha sido concluído e entregue ao cliente e, por fim, revisávamos a maneira como trabalhamos para buscar melhorias no processo.
+*  **Kanban**:  Utilizamos o trello para fazer o acompanhamento visual do projeto através do framework Kanban onde organizamos os requisitos, o backlog do produto, backlog da sprint e separavámos as tarefas da sprint no quadro *To-do, Doing, Done*.
+
+## Evolução das Sprints
+
+**Backlog Geral**
+<img src="Sprints/BacklogFeito.png" alt="Backlog geral />
+
+**Sprint 1**
+<img src="Sprints/Sprint1.gif" alt="Sprint 1" />
+
+**Sprint 2**
+<img src="Sprints/Sprint2.gif" alt="Sprint 2" />
+
+**Sprint 3**
+<img src="Sprints/Sprint3.gif" alt="Sprint 3" />
+
+**Sprint 4**
+<img src="Sprints/BacklogDaSprint4.png" alt="Sprint 4" />
