@@ -1,1 +1,6 @@
-QUARTO = 1, 2, 100.00, ocupado, 1
+QUARTO = 2, 4, 200.00, ocupado, 2
+QUARTO = 5, 2, 120.00, ocupado, 3
+QUARTO = 5, 2, 120.00, ocupado, 4
+QUARTO = 2, 4, 200.00, ocupado, 6
+QUARTO = 5, 2, 120.00, ocupado, 7
+QUARTO = 1, 2, 100.00, ocupado, 8

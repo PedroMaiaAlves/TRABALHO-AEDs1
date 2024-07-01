@@ -1,0 +1,12 @@
+Funcionario Teste
+12345678901
+Recepcionista
+3000.00
+Funcionario Teste
+12345678901
+Garçom
+2500.00
+Funcionario Teste2
+12345678901
+Garcom
+1600

@@ -1,0 +1,6 @@
+1,Mauricio,43546545632,Gerente,4500.00
+2,Morice,32435434534,Gerente,5000.00
+3,Julius,76757123543,Garcom,2300.00
+4,Cris,12324354201,Gerente,4000.00
+5,Jota Aramuni,87654565762,Gerente,5000.00
+6,Marcelo Vinicius,34345465761,Gerente,5000.00
