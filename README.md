@@ -107,7 +107,4 @@ Em anexo, temos tabelas que representam os relatórios de testes, neles é poss�
 </div>
 
 ## Vídeo Apresentando o Projeto.
-
-<video width="640" height="360" controls>
-  <source src="ExecucaoTeste/TrabalhoAEDs-VIDEO.mp4" type="video/mp4">
-</video>
+<a href="ExecucaoTeste/TrabalhoAEDs-VIDEO.mp4"> Vídeo Aqui </a>
