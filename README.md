@@ -105,3 +105,9 @@ Em anexo, temos tabelas que representam os relatórios de testes, neles é poss�
     <img src="ExecucaoTeste/CasoDeTeste2.png" alt="Teste 2"/>
     <img src="ExecucaoTeste/CasoDeTeste3.png" alt="Teste 3"/>
 </div>
+
+## Vídeo Apresentando o Projeto.
+
+<video width="640" height="360" controls>
+  <source src="ExecucaoTeste/TrabalhoAEDs-VIDEO.mp4" type="video/mp4">
+</video>
